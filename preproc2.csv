@@ -1,0 +1,218 @@
+var1,var2,temp
+ 89, 12,cold
+ 29, 62,hot
+ 20,138,cold
+ 35,164,cold
+ 25, 38,hot
+117,151,hot
+ 57, 89,hot
+ 22,131,cold
+ 90,124,hot
+104,162,hot
+125, 13,cold
+ 32,162,cold
+113,121,hot
+122,146,hot
+ 90,141,hot
+ 62, 70,hot
+ 51, 46,hot
+ 98,178,hot
+ 42, 63,hot
+122,141,hot
+ 22, 64,hot
+112, 31,cold
+ 88, 35,cold
+ 84, -6,cold
+ 41,148,cold
+ 94,145,hot
+ 55,192,cold
+119, 74,cold
+ 71, 49,cold
+ 42, 43,hot
+ 52, 72,hot
+ 42,176,cold
+ 68,180,cold
+ 67, 52,hot
+ 27, 57,hot
+ 77,113,hot
+120, 43,cold
+120, 32,cold
+131,156,hot
+ 36,176,cold
+113, 50,cold
+ 50,177,cold
+116,164,hot
+ 15,125,cold
+ 94,147,hot
+ 32, 54,hot
+134,172,hot
+123, 33,cold
+ 51, 92,hot
+124,130,hot
+ 96, 65,cold
+ 90, 95,hot
+ 65,101,hot
+ 86, 26,cold
+ 16,116,cold
+121, 79,cold
+ 53, 83,hot
+  7,138,cold
+ 57,163,cold
+ 28,183,cold
+103, 12,cold
+ 99, 14,cold
+116,122,hot
+ 96, 71,cold
+105, 51,cold
+  4,111,cold
+112,154,hot
+112, 53,cold
+ 94,167,hot
+ 60,124,hot
+ 69,110,hot
+ 76, 11,cold
+ 27,162,cold
+117, 37,cold
+114, 33,cold
+122, 63,cold
+  7,106,cold
+ 78, 61,cold
+ 50,118,hot
+ 59,109,hot
+ 48,186,cold
+ 77, 56,cold
+ 34, 46,hot
+116,165,hot
+ 53,161,cold
+ 81,111,hot
+106, 35,cold
+ 38,188,cold
+137, 87,cold
+ 64,130,hot
+ 78, 95,hot
+ 78,112,hot
+ 97, 70,cold
+ 94,181,hot
+110,106,hot
+130,178,hot
+122, 79,cold
+100, 35,cold
+ 29,177,cold
+ 22,143,cold
+ 46, 72,hot
+ 38, 36,hot
+109,174,hot
+124, 31,cold
+108,101,hot
+ 60,125,hot
+ 42, 98,hot
+117,169,hot
+130,154,hot
+ 51, 61,hot
+121, 79,cold
+107,167,hot
+ 44,109,hot
+ 87,125,hot
+ 45,157,cold
+ 53,105,hot
+ 36, 35,hot
+ 74, 61,hot
+ 29,132,cold
+113, 66,cold
+ 37, 69,hot
+ 99,127,hot
+ 42,181,cold
+ 30,186,cold
+ 91, 64,cold
+106, 54,cold
+107,174,hot
+ 22, 50,hot
+ 94,105,hot
+ 12,144,cold
+ 98,109,hot
+ 19,133,cold
+105,164,hot
+ 26,138,cold
+ 69, 74,hot
+ 23,122,cold
+ 63, 73,hot
+106, 64,cold
+ 24,157,cold
+ 88,150,hot
+ 79,173,hot
+106,143,hot
+100, 19,cold
+107,137,hot
+ 27, 65,hot
+ 25,146,cold
+ 26,175,cold
+ 41,127,cold
+ 42, 65,hot
+ 35,132,cold
+ 93,100,hot
+101,175,hot
+ 49, 98,hot
+ 50,163,cold
+ 48,137,cold
+ 53, 45,hot
+ 99,154,hot
+ 98, 10,cold
+134, 78,cold
+ 84, 97,hot
+ 61, 73,hot
+129,166,hot
+ 28,118,cold
+ 36,165,cold
+ 30,135,cold
+ 10,143,cold
+ 87, 38,cold
+120, 39,cold
+ 50,158,cold
+ 54, 76,hot
+ 58,185,cold
+ 18,126,cold
+121, 66,cold
+128, 38,cold
+ 91, 44,cold
+ 89,138,hot
+117, 47,cold
+ 13, 26,hot
+ 94,149,hot
+ 90, 14,cold
+ 84, 50,cold
+ 92, 40,cold
+ 53,113,hot
+ 29, 51,hot
+ 33,101,hot
+ 81,161,hot
+ 21,151,cold
+101,146,hot
+ 76,130,hot
+ 57,168,cold
+ 31, 70,hot
+ 76,143,hot
+ 36,142,cold
+117,136,hot
+122,134,hot
+ 17, 17,hot
+ 69,120,hot
+ 96,127,hot
+ 29,142,cold
+128,183,hot
+135,175,hot
+ 79,110,hot
+ 61,181,cold
+ 23, 50,hot
+ 54,101,hot
+117,162,hot
+119, 84,cold
+102, 36,cold
+122, 81,cold
+ 64, 88,hot
+ 41,162,cold
+ 15,128,cold
+114,172,hot
+ 29,165,cold
+ 57,130,hot
+ 98, 29,cold
+130, 50,cold
